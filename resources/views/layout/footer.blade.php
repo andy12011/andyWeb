@@ -2,7 +2,7 @@
 <footer class="sticky-footer bg-white">
     <div class="container my-auto">
         <div class="copyright text-center my-auto">
-            <span>Copyright Andy; Your Website 2019</span>
+            <span>Copyright &copy; Andy Website 2019</span>
         </div>
     </div>
 </footer>

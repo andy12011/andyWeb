@@ -18,9 +18,4 @@ class HomeController extends Controller
     {
         return view('table');
     }
-
-    public function logout()
-    {
-        dd(1);
-    }
 }
